@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bullmq": "^5.12.14",
+    "express": "^4.19.2",
+    "ioredis": "^5.4.1",
+    "ws": "^8.18.0"
+  }
+}
